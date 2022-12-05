@@ -1,0 +1,2 @@
+#!/bin/bash
+fing -tpye d -not -name '.' | WC -1
