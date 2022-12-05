@@ -1,2 +1,2 @@
 #!/bin/bash
-fing -tpye d -not -name '.' | WC -1
+find . -type d -path './*' -print | wc -l
