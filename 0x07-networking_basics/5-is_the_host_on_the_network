@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # This script belongs to an IP address passed as an agrument
 
 if [ "$1" == "" ]; then
